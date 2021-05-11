@@ -36,7 +36,7 @@ sudo apt remove yarn
 Test that it is running (on the instance):
 
 ```bash
-
+curl localhost:3330/graphql
 ```
 
 To test if this works (from your computer):
