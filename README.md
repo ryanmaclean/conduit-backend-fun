@@ -1,4 +1,4 @@
-# conduit-backend-fun
+# Conduit Backend Fun
 Primarily uses https://github.com/jsBlackBelt/microservices-realworld-app at this point. 
 We could also use the older Express-based solution as well, we wanted to have some fun and try this new one!
 
