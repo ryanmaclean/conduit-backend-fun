@@ -14,7 +14,7 @@ cd microservices-realworld-app/
 docker-compose up -d
 ```
 
-Ports 3330, 3334, 3335, 3336 nd finally 3337 will need to be opened for the instance that you deploy. (In our case this is done in GCP for now, here: https://console.cloud.google.com/networking/firewalls/)
+Ports 3330, 3334, 3335, 3336 and finally 3337 will need to be opened for the instance that you deploy. (In our case this is done in GCP for now, here: https://console.cloud.google.com/networking/firewalls/)
 
 ```bash
 curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
