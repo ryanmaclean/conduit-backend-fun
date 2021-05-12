@@ -9,6 +9,8 @@ Requires `docker-compose` and `yarn` to be installed (which will bring in git an
 git clone https://github.com/jsBlackBelt/microservices-realworld-app.git
 ```
 
+Update the `docker-copose.yaml` file to have `version: 3.3` instead of `version: 3.9`
+
 To run once cloned: 
 
 ```bash
