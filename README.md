@@ -5,6 +5,10 @@ We could also use the older Express-based solution as well, we wanted to have so
 
 Requires `docker-compose` and `yarn` to be installed (which will bring in git and docker on Debian). 
 
+```bash
+git clone https://github.com/jsBlackBelt/microservices-realworld-app.git
+```
+
 To run once cloned: 
 
 ```bash
